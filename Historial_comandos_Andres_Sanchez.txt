@@ -1,0 +1,30 @@
+ls
+cd 
+cd ..
+ls
+cd ubuntu
+sudo su
+ls
+cd repogit
+ls
+cd TP_AySO/
+ls
+cat README.md 
+vim README.md 
+git add .
+git status
+ls
+cat spoonge
+rm spoonge
+cat README.md 
+git commit -m "fix: Agregado de documentacion en Readme.md"
+cp /.bash_history Historial_comandos_<Andres_sanchez>.txt
+touch Historial_comandos_Andres_Sanchez.txt
+cp /.bash_history Historial_comandos_Andres_sanchez.txt
+cp ~/.bash_history Historial_comandos_Andres_sanchez.txt
+ls
+nano Historial_comandos_Andres_Sanchez.txt 
+nano Historial_comandos_Andres_sanchez.txt 
+history -a
+history
+history -w
